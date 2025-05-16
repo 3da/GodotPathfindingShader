@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dyusk5mn7qr5h"
+path="res://.godot/imported/PathFind.glsl-4533b605271bb2b2e1618124188c756d.res"
+
+[deps]
+
+source_file="res://PathFind.glsl"
+dest_files=["res://.godot/imported/PathFind.glsl-4533b605271bb2b2e1618124188c756d.res"]
+
+[params]
+
